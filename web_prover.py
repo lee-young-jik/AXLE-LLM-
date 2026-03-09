@@ -34,7 +34,7 @@ from autoprove import (
 )
 
 ROOT = Path(__file__).resolve().parent
-STATIC_DIR = ROOT / "axle-playground"
+STATIC_DIR = ROOT
 if os.getenv("WEB_PROVER_OUTPUT_DIR", "").strip():
     OUTPUT_DIR = Path(os.getenv("WEB_PROVER_OUTPUT_DIR", "").strip())
 elif os.getenv("VERCEL", "").strip():
