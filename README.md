@@ -45,7 +45,6 @@ flowchart LR
 배포 주소:
 
 - https://lean-beryl.vercel.app
-- https://imds.sogang.ac.kr/imds/
 
 사용 순서:
 
@@ -108,3 +107,8 @@ python web_prover.py --host 127.0.0.1 --port 8787
 - 실제 키를 코드/README에 넣지 않습니다.
 - `.env`, `.vercel`, `.venv`, `outputs`는 Git 추적 제외합니다.
 - 키가 노출되면 즉시 rotate(폐기/재발급)합니다.
+
+
+## 10) 문의
+- https://imds.sogang.ac.kr/imds/
+- yjlee@sogang.ac.kr
