@@ -45,6 +45,7 @@ flowchart LR
 배포 주소:
 
 - https://lean-beryl.vercel.app
+- https://imds.sogang.ac.kr/imds/
 
 사용 순서:
 
