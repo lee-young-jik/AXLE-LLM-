@@ -1,0 +1,13 @@
+.venv
+.venv311
+__pycache__
+.env
+.env.local
+outputs
+node_modules
+.npm-cache
+.git
+.DS_Store
+*.log
+tmp_*.lean
+proof-loop-viewer

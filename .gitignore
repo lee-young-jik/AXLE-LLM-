@@ -1,0 +1,26 @@
+# Python
+.venv/
+.venv311/
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+.env.local
+
+# Outputs / logs
+outputs/
+*.log
+tmp_*.lean
+
+# Frontend / tooling
+node_modules/
+.npm-cache/
+package.json
+package-lock.json
+
+# Vercel local metadata
+.vercel/
+
+# OS
+.DS_Store
