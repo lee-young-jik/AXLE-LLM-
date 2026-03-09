@@ -14,7 +14,6 @@ AXLE 검증 엔진과 LLM을 결합해 Lean 증명을 자동으로 시도하는 
 > 동적 썸네일 링크를 사용합니다.
 
 ![Demo Home](https://image.thum.io/get/width/1400/https://lean-beryl.vercel.app)
-![Demo Home (No Animate)](https://image.thum.io/get/width/1400/noanimate/https://lean-beryl.vercel.app)
 
 ## 증명 결과 요약
 
